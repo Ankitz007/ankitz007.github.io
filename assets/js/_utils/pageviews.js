@@ -116,7 +116,7 @@ function countUp(min, max, destId) {
 function countPV(path, rows) {
   let count = 0;
 
-  if (typeof rows !== "undefined" ) {
+  if (typeof rows !== "undefined") {
     for (let i = 0; i < rows.length; ++i) {
       const gaPath = rows[parseInt(i, 10)][0];
       if (gaPath === path) { /* path format see: site.permalink */
@@ -154,7 +154,7 @@ function displayPageviews(data) {
   const rows = data.rows; /* could be undefined */
 
   if ($("#post-list").length > 0) { /* the Home page */
-    $(".post-preview").each(function() {
+    $(".post-preview").each(function () {
       const path = $(this).find("a").attr("href");
       tacklePV(rows, path, $(this).find(".pageviews"), hasInit);
     });
@@ -204,7 +204,7 @@ function fetchPageviews(fetchOrigin = true, filterOrigin = false) {
 }
 
 
-$(function() {
+$(function () {
   if ($(".pageviews").length > 0) {
     PvCache.inspectKeys();
     let cache = PvCache.getData();
