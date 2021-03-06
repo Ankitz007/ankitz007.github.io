@@ -86,9 +86,9 @@ toc: true
 
 disqus:
   comments: true  # boolean type, the global switch for posts comments.
-  shortname: 'ankits-blog'    # Fill with your Disqus shortname. › https://help.disqus.com/en/articles/1717111-what-s-a-shortname
+  shortname: 'ankits-personal-blog'    # Fill with your Disqus shortname. › https://help.disqus.com/en/articles/1717111-what-s-a-shortname
 
-paginate: 3
+paginate: 7
 
 # ------------ The following options are not recommended to be modified ------------------
 
