@@ -3,7 +3,6 @@ title: Introduction to Deep Learning
 author: Ankit
 color: red
 tags: DL AI
-layout: post
 date: 19-05-2020
 ---
 Okay so, Hello Guys, Wassup!  
