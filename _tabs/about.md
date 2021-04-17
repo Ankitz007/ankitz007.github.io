@@ -6,7 +6,7 @@ order: 4
 
 
 <!-- > **Note**: Add Markdown syntax content to file `_tabs/about.md` and it will show up on this page. -->
-
+![About banner](/assets/img/about_banner.png)
 
 I am an undergraduate student at R.V. College of Engineering, Bengaluru pursuing my Bachelors in Information Technology. I am passionate for Front-End Web Design and have extensive experience working with Deep Learning Models as well. I am always eager to learn and adapt to different environments.  
 
