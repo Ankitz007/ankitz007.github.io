@@ -29,4 +29,4 @@ So, now, in industry, this passion remains with me. There's certainly yet more t
 
 **Specialties**:  
 Languages: C, C++, Python  
-Academic: Front-End Web Development, Data Structures & Algorithms, Deep Learning  
+Academic: Front-End Web Development, Data Structures & Algorithms, Deep Learning 
