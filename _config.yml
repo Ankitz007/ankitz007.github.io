@@ -48,11 +48,11 @@ google_site_verification: google_meta_tag_verification # change to your verifica
 # --------------------------
 
 google_analytics:
-  id: 'G-CR1FN0K695'          # Fill with your Google Analytics ID
+  id: 'G-LZGQ84XYTD'          # Fill with your Google Analytics ID
   pv:
     # The Google Analytics pageviews switch.
     # DO NOT enable it unless you know how to deploy the Google Analytics superProxy.
-    enabled: true
+    enabled: false
     # the next options only valid when `google_analytics.pv` is enabled.
     proxy_url: 'https://ankits-personal-blog.el.r.appspot.com'
     proxy_endpoint: 'https://ankits-personal-blog.el.r.appspot.com/query?id=ahZqfmFua2l0cy1wZXJzb25hbC1ibG9nchULEghBcGlRdWVyeRiAgIDo14eBCgw'
