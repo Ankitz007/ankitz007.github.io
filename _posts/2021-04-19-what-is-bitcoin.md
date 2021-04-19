@@ -25,6 +25,23 @@ _Bitcoin is a new form of money that's completely digital._
 
 Bitcoin was designed to be a completely decentralized way to exchange money. Nakamoto argued in his paper that government-backed currencies were too dependent on trust, and that trust is easily broken. So he proposed a way to use cryptography to create a currency that could be used freely without needing to trust a central bank or government. 
 
+## Why does Bitcoin exist?
+
+![WhyBitcoin1](/assets/img/bitcoin/whybitcoin1.svg)
+_Inclusion of 3rd party was a necessity_
+
+Until Bitcoin came around, you needed banks, credit cards, or companies like PayPal and Venmo to send and receive money. These companies were necessary to do something only they could do: verify that the person spending money actually has money to spend. Banks can do this because they hold everyone’s money, so they know all account balances.
+
+**But what's so great about not using banks and credit card companies?** 
+For starters, they are slow, expensive, and part of a broken financial system. Banks have huge costs for buildings, lawyers, and highly paid executives - all funded by the fees you pay (and massive taxpayer bailouts, like in 2008). Banks also limit how you can access and send your money.
+
+![WhyBitcoin2](/assets/img/bitcoin/whybitcoin2.svg){: width="300" .right}
+
+
+Not needing a third party (like a bank) to handle accounts and transactions has a lot of benefits. Transactions can be faster and cheaper since there is no middleman.
+
+Plus, your personal information becomes more private since no bank has to store it. You’re probably beginning to see why Bitcoin is such a game changer.
+
 ## How does Bitcoin work?
 
 Now that you know what Bitcoin is and why it exists, let’s see how it actually works by a series of illustrations.
@@ -86,24 +103,6 @@ Instead of recording transactions in private record systems like a bank or credi
 This method of comparing all the identical “notebooks” is called finding a “consensus” - in other words a mutual agreement that the transaction isn’t fraud.
 
 Bitcoin uses the same strategy to compare all transactions on the Blockchain. It can do this very quickly by using powerful computer code. The process of comparing transactions using this computer code is known as Bitcoin’s Consensus Algorithm.
-
-## Why does Bitcoin exist?
-
-
-![WhyBitcoin1](/assets/img/bitcoin/whybitcoin1.svg)
-_Inclusion of 3rd party was a necessity_
-
-Until Bitcoin came around, you needed banks, credit cards, or companies like PayPal and Venmo to send and receive money. These companies were necessary to do something only they could do: verify that the person spending money actually has money to spend. Banks can do this because they hold everyone’s money, so they know all account balances.
-
-**But what's so great about not using banks and credit card companies?** 
-For starters, they are slow, expensive, and part of a broken financial system. Banks have huge costs for buildings, lawyers, and highly paid executives - all funded by the fees you pay (and massive taxpayer bailouts, like in 2008). Banks also limit how you can access and send your money.
-
-![WhyBitcoin2](/assets/img/bitcoin/whybitcoin2.svg){: width="300" .right}
-
-
-Not needing a third party (like a bank) to handle accounts and transactions has a lot of benefits. Transactions can be faster and cheaper since there is no middleman.
-
-Plus, your personal information becomes more private since no bank has to store it. You’re probably beginning to see why Bitcoin is such a game changer.
 
 ## How to buy Bitcoins?
 
