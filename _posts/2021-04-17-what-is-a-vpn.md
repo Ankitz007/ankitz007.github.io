@@ -2,8 +2,8 @@
 title: What is a VPN?
 author: Ankit Kumar Singh
 date: 17-04-2021 12:45:07
-categories: [Technology, Tools]
-tags: [Tools, VPN, Privacy]
+categories: [Tools, Essentials]
+tags: [tools, vpn, privacy]
 image:
     src: /assets/img/vpn/vpnbanner.jpg
 ---
