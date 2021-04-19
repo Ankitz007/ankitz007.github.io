@@ -2,7 +2,7 @@
 title: What is Bitcoin and Why Does it Matter?
 author: Ankit Kumar Singh
 date: 19-04-2021 13:05:00
-categories: [Technology, Trending, Cryptocurrency]
+categories: [Technology, Trending]
 tags: [crypto, bitcoin]
 image:
     src: /assets/img/bitcoin/bitcoin_banner.svg
