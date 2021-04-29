@@ -76,6 +76,14 @@ Moon
 
 > This line to shows the Block Quote.
 
+## Spoiler Text
+<span class="spoiler">My hidden paragraph here. This is a spoiler text. </span>  
+
+How to use:
+```html
+<span class="spoiler">My hidden paragraph here. This is a spoiler text. </span> 
+```
+
 ## Tables
 
 | Company                      | Contact          | Country |
