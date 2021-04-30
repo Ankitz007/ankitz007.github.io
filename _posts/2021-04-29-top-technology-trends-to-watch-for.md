@@ -37,7 +37,7 @@ Edge computing will increase as use of the Internet of Things (IoT) devices incr
 
 Cyber security might not seem like trending technology, given that it has been around for a while, but it is evolving just as other technologies are. That’s in part because threats are constantly new. The malevolent hackers who are trying to illegally access data are not going to give up any time soon, and they will continue to find ways to get through even the toughest security measures. It’s also in part because new technology is being adapted to enhance security. As long as we have hackers, cybersecurity will remain a trending technology because it will constantly evolve to defend against those hackers.
 
-![Cybersecurity](/assets/img/techtrends21/cybersecurity.gif)
+![Cybersecurity](/assets/img/techtrends21/cybersecurity.webp)
 
 The number of cybersecurity jobs is growing three times faster than other tech jobs, as proof for a serious need for cybersecurity professionals. But, the market is falling short of skilled people to fill in these positions. As a result, it’s predicted that there will be [3.5 million unfilled cybersecurity jobs by 2021](https://www.forbes.com/sites/forbestechcouncil/2018/08/09/the-cybersecurity-talent-gap-is-an-industry-crisis/#3f5c78aca6b3).  
 
@@ -50,7 +50,7 @@ In addition, blockchains are consensus-driven, so no one entity can take control
 
 An important Blockchain element- cryptocurrencies, will also be divided into several currencies and will be traded in the market on a high value.
 
-![Blockchain](/assets/img/techtrends21/blockchain.gif)
+![Blockchain](/assets/img/techtrends21/blockchain.webp)
 
 77% of fintech firms are planning to adopt Blockchain as a part of an inside-production process by 2021.
 According to a study, by the year 2025, the business value added by Blockchain will engage [more than $176 billion](https://puresoftware.com/the-4-biggest-technology-trends-to-watch-in-2020/), then rush to exceed $3.1 trillion by 2030.
@@ -85,7 +85,8 @@ Multiple “things” are now emerging through WiFi connectivity, meaning they c
 
 As consumers, we’re already using and benefitting from IoT. We can lock our doors remotely if we forget to when we leave for work and preheat our ovens on our way home from work, all while tracking our fitness on our Fitbits.
 
-![Internet of Things](/assets/img/techtrends21/iot.gif)
+![Internet of Things](/assets/img/techtrends21/iot.webp)
+_IOT Drone Delivery Illustration_
 
 And we’re only in the beginning stages of this new technology trend: Forecasts suggest that [by 2030 around 50 billion](https://www.statista.com/statistics/802690/worldwide-connected-devices-by-access-technology/) of these IoT devices will be in use around the world, creating a massive web of interconnected devices spanning everything from smartphones to kitchen appliances. The global spending on the Internet of Things (IoT) is forecast [to reach 1.1 trillion U.S. dollars in 2022](https://www.statista.com/statistics/668996/worldwide-expenditures-for-the-internet-of-things/). 
 
