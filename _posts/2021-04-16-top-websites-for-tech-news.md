@@ -4,7 +4,7 @@ author: Ankit Kumar Singh
 categories: [Technology]
 tags: [technology, tech news]
 image:
-    src: /assets/img/techsites21/techsites1.png
+    src: /assets/img/techsites21/techsites1.webp
 ---
 
 Technology has invaded every aspect of our lives. From smartphones to smart cars- iPhones to Tesla, everything is now powered through technology.
@@ -23,7 +23,7 @@ To help you stay ahead of the world, I have compiled a list of some of the best 
 
 ## 1. [TechCrunch](https://techcrunch.com/)
 
-![TechCrunch](/assets/img/techsites21/techcrunch.png)
+![TechCrunch](/assets/img/techsites21/techcrunch.webp)
 
 Kicking off our list is TechCrunch, one of my favorite tech websites on the web. If you are into the nitty-gritty of the startup world, TechCrunch is a must-follow resource.
 
@@ -33,7 +33,7 @@ They have a ton of podcasts on different topics too if you don’t like reading 
 
 ## 2. [Term Sheet](http://fortune.com/tag/term-sheet/)
 
-![Term Sheet](/assets/img/techsites21/termsheet.png)
+![Term Sheet](/assets/img/techsites21/termsheet.webp)
 
 Fortune Magazine has a great website covering topics like finance, politics, entertainment, on top of technology.
 
@@ -41,7 +41,7 @@ Their technological wing called Term Sheet is a great resource for all tech news
 
 ## 3. [TheVerge](https://www.theverge.com/)
 
-![The Verge](/assets/img/techsites21/theverge.png)
+![The Verge](/assets/img/techsites21/theverge.webp)
 
 Another one of my favorites, especially if you are more into gadgets and other ‘cool stuff’, TheVerge is a great resource for that. Their YouTube channel is probably the best one out there for Tech news and gadget reviews.
 
@@ -51,7 +51,7 @@ The topics are split into different categories so you’ll have no problem findi
 
 ## 4. [Wired](https://www.wired.com/)
 
-![Wired](/assets/img/techsites21/wired.png)
+![Wired](/assets/img/techsites21/wired.webp)
 
 I am pretty sure you have heard about Wired. If you haven’t, you need to check out this cool tech website right away.
 
@@ -61,7 +61,7 @@ Apart from technology, Wired covers a variety of topics like business, science, 
 
 ## 5. [VentureBeat](https://venturebeat.com/)
 
-![VentureBeat](/assets/img/techsites21/venturebeat.png)
+![VentureBeat](/assets/img/techsites21/venturebeat.webp)
 
 Focused on covering all the latest and greatest in tech, VentureBeat is purely a tech news website with no fluff whatsoever.
 
@@ -71,7 +71,7 @@ No matter if you are a tech enthusiast or a startup founder in the tech world, V
 
 ## 6. [Digital Trends](https://www.digitaltrends.com/)
 
-![Digital Trends](/assets/img/techsites21/digitaltrends.png)
+![Digital Trends](/assets/img/techsites21/digitaltrends.webp)
 
 Digital Trends is a website full of great information. From the latest new product and gadget coverage to detailed product analysis, Digital Trends is a great website to stay on top of well, digital trends!
 
@@ -79,7 +79,7 @@ A standout feature is their ‘Original Series‘ tab which covers every topic i
 
 ## 7. [TechRadar](https://www.techradar.com/)
 
-![TechRadar](/assets/img/techsites21/techradar.png)
+![TechRadar](/assets/img/techsites21/techradar.webp)
 
 TechRadar, “the source for tech buying advice,” was launched in 2008 and is a trusted site for consumer tech news and reviews. TechRadar is based in the UK and has expanded to Australia and the U.S.
 
@@ -91,7 +91,7 @@ TechRadar’s Buying Guides offer product advice on just about everything tech r
 
 ## 8. [Engadget](https://www.engadget.com/)
 
-![Engadget](/assets/img/techsites21/engadget.png)
+![Engadget](/assets/img/techsites21/engadget.webp)
 
 With a focus on gadgets and consumer electronics, Engadget covers “the intersection of technology, gaming and entertainment.”
 
@@ -103,7 +103,7 @@ The Tomorrow section posts interesting stories on robotics, AI, and space travel
 
 ## 9. [Gizmodo](https://gizmodo.com/)
 
-![Gizmodo](/assets/img/techsites21/gizmodo.png)
+![Gizmodo](/assets/img/techsites21/gizmodo.webp)
 
 Gizmodo appeals to a broad audience with its mix of tech, design, and science news.
 
@@ -115,7 +115,7 @@ Readers can find click-worthy stories on science fiction and futurism on the i09
 
 ## 10. [Mashable](https://mashable.com/)
 
-![Mashable](/assets/img/techsites21/mashable.png)
+![Mashable](/assets/img/techsites21/mashable.webp)
 
 Apart from covering the latest tech happenings and product launches from around the globe, Mashable is a full-fledged infotainment website covering topics like entertainment, politics, culture, science, business, and more.
 

@@ -9,7 +9,7 @@ toc: false
 
 NASA’s Ingenuity helicopter has captured much of the world’s attention, but an amazing new experiment, in which the Perseverance rover produced a tiny amount of oxygen, is equally deserving of praise.
 
-![Life on Mars concept](/assets/img/nasawater/moxie.jpg)
+![Life on Mars concept](/assets/img/nasawater/moxie.webp)
 _**MOXIE**: Hello Mars.! <br> Image: NASA_
 
 The growing list of “firsts” for Perseverance, NASA’s newest six-wheeled robot on the Martian surface, includes converting some of the Red Planet’s thin, carbon dioxide-rich atmosphere into oxygen. A toaster-size, experimental instrument aboard Perseverance called the **Mars Oxygen In-Situ Resource Utilization Experiment** (MOXIE) accomplished the task. 
@@ -20,7 +20,7 @@ On April 20, the MOXIE device on Perseverance produced roughly 5 grams of oxygen
 
 While the technology demonstration is just getting started, it could pave the way for science fiction to become science fact – isolating and storing oxygen on Mars to help power rockets that could lift astronauts off the planet’s surface. Such devices also might one day provide breathable air for astronauts themselves. MOXIE is an exploration technology investigation – as is the Mars Environmental Dynamics Analyzer (MEDA) weather station – and is sponsored by NASA’s Space Technology Mission Directorate (STMD) and Human Exploration and Operations Mission Directorate.
 
-![Oxygen Produced](/assets/img/nasawater/oxygen_produced.jpeg)
+![Oxygen Produced](/assets/img/nasawater/oxygen_produced.webp)
 _After a two-hour warmup period, MOXIE began producing oxygen at a rate of 6 grams per hour. The was reduced two times during the run (labeled as “current sweeps”) in order to assess the status of the instrument. After an hour of operation the total oxygen produced was about 5.4 grams, enough to keep an astronaut healthy for about 10 minutes of normal activity.<br> Image: MIT Haystack Observatory_
 
 To burn its fuel, a rocket must have more oxygen by weight. To get four astronauts off the Martian surface on a future mission would require approximately 15,000 pounds (7 metric tons) of rocket fuel and 55,000 pounds (25 metric tons) of oxygen. In contrast, astronauts living and working on Mars would require far less oxygen to breathe. “The astronauts who spend a year on the surface will maybe use one metric ton between them,” Hecht said.
@@ -38,7 +38,7 @@ This technology demonstration was designed to ensure the instrument survived the
 
 These oxygen-production runs will come in three phases. The first phase will check out and characterize the instrument’s function, while the second phase will run the instrument in varying atmospheric conditions, such as different times of day and seasons. In the third phase, Hecht said, “we’ll push the envelope” – trying new operating modes, or introducing “new wrinkles, such as a run where we compare operations at three or more different temperatures.”
 
-![MOXIE Installation](/assets/img/nasawater/moxie_installation.jpg)
+![MOXIE Installation](/assets/img/nasawater/moxie_installation.webp)
 _**MOXIE Being Installed in Perseverance**: Technicians at NASA’s Jet Propulsion Laboratory lower the Mars Oxygen In-Situ Resource Utilization Experiment (MOXIE) instrument into the belly of the Perseverance rover.<br> Image: NASA/JPL-Caltech_
 
 ### More About Perseverance

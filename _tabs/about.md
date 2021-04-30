@@ -15,7 +15,7 @@ I can usually be found doing two things:
 - Coding (Learning as of now 😜️).   
 
 ## My Workspace
-![My Space](/assets/img/myspace.jpg)  
+![My Space](/assets/img/myspace.webp)  
 
 **Well, not exactly, but you get the idea, right? 😂️**
 
