@@ -23,7 +23,7 @@ description: >-                        # used by seo meta and the atom feed
   This is a blog for people who love tech, but live outside the bubble. It’s for folks who are interested in technology but don’t live and breathe it.
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
-url: ''
+url: 'https://ankitz007.tech'
 
 author: Ankit Kumar Singh                  # change to your full name
 
