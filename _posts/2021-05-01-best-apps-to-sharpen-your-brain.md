@@ -5,7 +5,7 @@ date: 01-05-2021 21:33:07
 categories: [Technology, health]
 tags: [mental health, leisure, brain games]
 image:
-    src: /assets/img/braingames/banner.webp
+    src: https://res.cloudinary.com/ankitz007/image/upload/v1620243351/Best%20Apps%20to%20sharpen%20your%20Brain/banner_jvpikh.webp
 ---
 Brain training is based on the premise that mental stimulation can improve neuroplasticity. This is the brain’s ability to form and reorganize connections between brain cells in response to new tasks.
 
@@ -21,7 +21,7 @@ Considered by many as the “original” brain training app, Lumosity is used by
 
 > Lumosity’s games have been created with the help of more than 100 researchers from around the world. Furthermore, their website cites a study of more than 4,700 adults that found that brain training with Lumosity improved cognition more than crosswords.
 
-![Lumosity](/assets/img/braingames/lumosity.svg)
+![Lumosity](https://res.cloudinary.com/ankitz007/image/upload/v1620243352/Best%20Apps%20to%20sharpen%20your%20Brain/lumosity_xfhane.svg)
 _Lumosity scientists take cognitive training exercises developed by leading researchers, and then adapt them into easy-to-learn brain games_
 
 Once the games are complete, users are shown how their results compare with those of other users in the same age group. This provides insight into the areas of cognition that require the most attention.
@@ -35,7 +35,7 @@ Time to exercise each side of your brain! This app is brilliantly specific as it
 
 It really helps you highlight the contrast between each side of your brain as well as helps you identify your strengths and weaknesses. There are so many games which are placed in a category base such as awareness, relax and patience. Hence it really gets your brain working not in terms of cognitive skills but also your overall mindfulness.
 
-![Left vs Right](/assets/img/braingames/leftvsright.webp)
+![Left vs Right](https://res.cloudinary.com/ankitz007/image/upload/v1620243351/Best%20Apps%20to%20sharpen%20your%20Brain/leftvsright_fgstcq.webp)
 _With a rating of 4.5 on Play Store, Left vs Right is one hell of a popular brain trainer_
 
 The app is available for free however has limitations on activities on a daily basis. You can try a 7-day trial on the full version and decide whether the limitations are sufficient for you to workaround. The app is available for both Andriod and IOS, so Lefties let your creativity flow and righties let your logic roll!
@@ -47,7 +47,7 @@ CogniFit is perhaps the most advanced brain training app, consisting of a variet
 
 The CogniFit developers are keen to point out that all of their brain training tools have been validated by scientists – including researchers from the University of Washington and the Albert Einstein College of Medicine in New York. Furthermore, they state that the efficacy of their tools has been established through [general population studies](https://www.ncbi.nlm.nih.gov/pubmed/?term=Novel+Television-Based+Cognitive+Training+Improves+Working+Memory+and+Executive+Function).
 
-![CogniFit](/assets/img/braingames/cognifit.webp)
+![CogniFit](https://res.cloudinary.com/ankitz007/image/upload/v1620243351/Best%20Apps%20to%20sharpen%20your%20Brain/cognifit_frhs39.webp)
 _CogniFit offers digital tasks to precisely measure and train cognitive skills_
 
 Interestingly, CogniFit also offers tools that researchers and healthcare professionals can use in order to study and assess cognitive function in patients.
@@ -61,7 +61,7 @@ While Elevate has fewer users than Lumosity, at 10 million downloads worldwide, 
 
 The app consists of more than 40 minigames designed to boost math and speaking skills, as well as improve memory, attention, and processing speed.
 
-![Elevate](/assets/img/braingames/elevate.webp)
+![Elevate](https://res.cloudinary.com/ankitz007/image/upload/v1620243351/Best%20Apps%20to%20sharpen%20your%20Brain/elevate_bj9rpz.webp)
 _Elevate consists of more than 40 minigames_
 
 > According to the app’s creators, “the more you train with Elevate, the more you’ll improve critical cognitive skills that are designed to boost productivity, earning power, and self-confidence.”
@@ -76,7 +76,7 @@ Rated by Google as one of the best Android apps for 2016, Peak offers more than 
 
 These games have been developed with the help of scientists from respectable universities across the globe, including Yale University in Connecticut and the University of Cambridge in the United Kingdom.
 
-![Peak](/assets/img/braingames/peak.webp)
+![Peak](https://res.cloudinary.com/ankitz007/image/upload/v1620243352/Best%20Apps%20to%20sharpen%20your%20Brain/peak_ggtdzi.webp)
 _Peak games are designed to push you hard with short, intense workouts designed around your life_
 
 > The Peak creators recommend brain training for 3 days per week. One great feature of Peak is that you can select the days that you want to train and set reminders for these days.

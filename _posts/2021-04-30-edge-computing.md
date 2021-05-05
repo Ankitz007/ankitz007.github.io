@@ -5,7 +5,7 @@ date: 30-04-2021 22:00:00
 categories: [Technology, Trending]
 tags: [edge, edge computing]
 image:
-    src: /assets/img/edgecomputing/banner.webp
+    src: https://res.cloudinary.com/ankitz007/image/upload/v1620243278/Edge%20Computing%20-%20An%20Overview/banner_jxdjjh.webp
 ---
 Edge Computing. Maybe you’ve heard of it before. But do you know what it is or how it came about? Do you know its pros and cons? Or maybe you are curious about what’s to come for edge computing? Continue reading to find out and learn more about it.
 
@@ -17,7 +17,7 @@ With remote work becoming the norm, the demand is growing for better and faster 
 
 Edge Computing is an upgrade to cloud computing rather than a replacement. They complement each other rather than in existing in competition. Cloud computing is the delivery of data over the internet. Thanks to the cloud, the ability to collaborate remotely is better, file sharing is more secure, and it is also cost-saving. However, the bandwidth demand will limit its functionality. Edge computing takes what cloud computing started and upgrades it by improving the efficiency and performance of delivering data.  
 
-![Edge Complementing Cloud](/assets/img/edgecomputing/edgecomplementscloud.webp)
+![Edge Complementing Cloud](https://res.cloudinary.com/ankitz007/image/upload/v1620243277/Edge%20Computing%20-%20An%20Overview/edgecomplementscloud_lkmyyk.webp)
 _Edge computing compliments cloud computing_
 
 ## Are there any benefits to Edge Computing?
@@ -57,7 +57,7 @@ Whether the benefits of outweigh these downsides depends on who is using it, wha
 
 ## Where is Edge Computing heading?
 
-![Edge Computing Application](/assets/img/edgecomputing/edgeapplication.webp)
+![Edge Computing Application](https://res.cloudinary.com/ankitz007/image/upload/v1620243277/Edge%20Computing%20-%20An%20Overview/edgeapplication_eizigw.webp)
 _John Krafcik, CEO of Waymo, presents a self-driving car at Web Summit in Lisbon, Portugal, on November 7, 2017.<br>Source: Horacio Villalobos/Corbis/Getty Images_
 
 Edge computing is a powerful concept with many applications. Some IoT devices will not be safe or reliable without real-time processing. Latency and bandwidth of the cloud will limit these devices. Self-driving cars relate to this closely. It is not feasible to have all of the car’s sensors feeding their data into the cloud and having to wait for a response. By then it may be too late. So, by having the processing done locally in the car, it will be quick to react.

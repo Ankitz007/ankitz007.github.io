@@ -5,7 +5,7 @@ date: 17-04-2021 12:45:07
 categories: [Tools, Essentials]
 tags: [tools, vpn, privacy]
 image:
-    src: /assets/img/vpn/vpnbanner.webp
+    src: https://res.cloudinary.com/ankitz007/image/upload/v1620242612/What%20is%20a%20VPN/vpnbanner_veiqhp.webp
 ---
 
 Surfing the web or transacting on an unsecured Wi-Fi network means you could be exposing your private information and browsing habits. That’s why a virtual private network, better known as a VPN, should be a must for anyone concerned about their online security and privacy.
@@ -26,7 +26,7 @@ When you browse the Internet, your Internet Service Provider (ISP) gives your de
 
 Therefore, without a VPN, your IP address is exposed to the government, advertisers, data miners, even hackers, and thieves. Moreover, depending on your country’s legislation, they can track, monitor, store, and even sell your private data and browsing history.
 
-![Internet connection without a VPN](/assets/img/vpn/internetwithoutvpn.webp)
+![Internet connection without a VPN](https://res.cloudinary.com/ankitz007/image/upload/v1620242611/What%20is%20a%20VPN/internetwithvpn_fqt1nb.webp)
 
 **Case 2: Your internet connection with a VPN**
 
@@ -34,7 +34,7 @@ To counteract all of that online surveillance, you need a VPN. When using a VPN,
 
 So, there you have it. The VPN encrypts your data and adds a layer of security to protect your identity. Regardless of your location, you will be permitted to use the Internet as if you were present at the VPN’s location. This can be significantly beneficial for individuals using a public Wi-Fi network or hotspots (e.g., cafés, airports, or hotels).
 
-![Internet connection with a VPN](/assets/img/vpn/internetwithvpn.webp)
+![Internet connection with a VPN](https://res.cloudinary.com/ankitz007/image/upload/v1620242611/What%20is%20a%20VPN/internetwithoutvpn_ultvqp.webp)
 
 Microsoft developed the first VPN in 1996 as a method for remote employees to access the company’s internal network securely. Once it doubled the productivity, other companies began adopting the practice. Corporate VPNs that allow remote work are a standard feature of the global business landscape nowadays.
 
@@ -42,7 +42,7 @@ Microsoft developed the first VPN in 1996 as a method for remote employees to ac
 
 VPNs essentially create a **data tunnel** between your local network and an exit node in another location, which could be thousands of miles away, making it seem as if you’re in another place. This benefit allows online freedom, or the ability to access your favorite apps and websites while on the go.
 
-![VPN Working](/assets/img/vpn/vpnworking.webp)
+![VPN Working](https://res.cloudinary.com/ankitz007/image/upload/v1620242611/What%20is%20a%20VPN/vpnworking_fr2bvp.webp)
 
 Here’s a closer look at how a virtual private network works. VPNs use encryption to scramble data when it’s sent over a Wi-Fi network. Encryption makes the data unreadable. Data security is especially important when using a public Wi-Fi network, because it prevents anyone else on the network from eavesdropping on your internet activity.
 
