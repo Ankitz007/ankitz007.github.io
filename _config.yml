@@ -15,12 +15,12 @@ timezone: Asia/Kolkata
 
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # --------------------------
-title: Ankit's Blog                          # the main title
+title: Ankit's Blog | Let's breathe technology, together                          # the main title
 
 tagline: Hello World   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
-  This is a blog for people who love tech, but live outside the bubble. It’s for folks who are interested in technology but don’t live and breathe it.
+  This is a blog for people who love technology and want to live and breathe it. Not convinced? See it yourself.
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url: 'https://ankitz007.tech'
